@@ -13,8 +13,8 @@ from instabot import InstaBot
 from unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
-    login="user",
-    password="password",
+    login="imposhoesec",
+    password="sergio2014",
     like_per_day=500,
     comments_per_day=0,
     tag_list=[''],
